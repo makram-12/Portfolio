@@ -88,5 +88,4 @@ Deploy directly with Vercel by connecting your Git repository.
 
 This project is open source and available under the MIT License.
 
-
-demo : 'mohamedmakram.netlify.app'
+demo: 'https://mohamedmakram.netlify.app/'
