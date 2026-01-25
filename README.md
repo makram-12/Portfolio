@@ -82,10 +82,6 @@ Deploy directly with Vercel by connecting your Git repository.
 - **Colors**: Modify theme colors in `tailwind.config.js`
 - **Content**: Update components in `app/component/` directory
 - **Fonts**: Change fonts in `app/layout.js`
-- **Assets**: Add images to `assets/public/` or `public/` directory
-
-## 📝 License
-
-This project is open source and available under the MIT License.
+- **Assets**: Add images to `public/` directory
 
 demo: 'https://mohamedmakram.netlify.app/'

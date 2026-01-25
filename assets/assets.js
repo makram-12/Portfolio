@@ -97,11 +97,11 @@ export const workData = [
         demo: 'https://remarkable-duckanoo-4bb393.netlify.app'
     },
     {
-        title: 'Eduford',
-        description: 'Web Design',
+        title: 'E-Commerce',
+        description: 'React App',
         bgImage: '/Capture3.PNG',
-        link: 'https://github.com/makram-12/Eduford',
-        demo: 'https://makram-12.github.io/Eduford/',
+        link:'https://github.com/makram-12/E-commerce',
+        demo:'https://foreverr-e-commerce.netlify.app'
     },
     {
         title: 'Staybnb',
@@ -109,6 +109,13 @@ export const workData = [
         bgImage: '/Capture4.PNG',
         link:'https://github.com/makram-12/Staybnb',
         demo:'https://makram-12.github.io/Staybnb/'
+    },
+    {
+        title: 'Eduford',
+        description: 'Web Design',
+        bgImage: '/Capture5.PNG',
+        link: 'https://github.com/makram-12/Eduford',
+        demo: 'https://makram-12.github.io/Eduford/',
     },
 ]
 
