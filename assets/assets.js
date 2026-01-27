@@ -97,7 +97,7 @@ export const workData = [
         demo: 'https://remarkable-duckanoo-4bb393.netlify.app'
     },
     {
-        title: 'E-Commerce',
+        title: 'Forever',
         description: 'React App',
         bgImage: '/Capture3.PNG',
         link:'https://github.com/makram-12/E-commerce',
